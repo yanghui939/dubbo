@@ -7,6 +7,7 @@ import java.io.IOException;
 
 /**
  * 消费者
+ * 案例
  */
 public class Consumer {
     public static void main(String[] args) throws IOException {
